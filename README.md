@@ -6,7 +6,7 @@
 
 
 # AIM:
-To develop the Hospital Management System using Star UML.
+To develop the Hospital Management System using Star UML. 
 
 # Problem Statement:
 1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
